@@ -57,7 +57,7 @@ button {
   width: 100%;
   border: none;
   border-radius: 5px;
-  background-color: #28a745;
+  background-color: #f9abff;
   color: white;
   font-size: 16px;
   cursor: pointer;
@@ -65,13 +65,13 @@ button {
 }
 
 button:hover {
-  background-color: #218838;
+  background-color: #e242ee;
 }
 
 #resultado {
   margin-top: 20px;
   font-size: 18px;
-  color: #343a40;
+  color: #ffabab;
 }
 
 @media (max-width: 600px) {
